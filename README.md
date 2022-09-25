@@ -65,6 +65,10 @@
 
 <h2>勉強内容など</h2>
 （順次追加）
+<body> 
+  <div class="home-content wrapper">
+    <a class="botton" href="localization.pdf">可換環の局所化</a>
+</body>
 
 <h2>リンク</h2>
 <ul>
