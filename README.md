@@ -63,12 +63,13 @@
   
 </ul>
 
-<h2>勉強内容など<>
+<h2>勉強内容など</h2>
 
 <h2>リンク</h2>
 <ul>
 <li> <a href="http://alg-d.com">壱大整域</a> </li>
 <li> <a href="http://ringed-sakura.space">環付サクラ空間</a> </li>
+<li> <a href="https://yuji-tomo.web.app">YUJIさんのページ</a> </li>
 </ul>
 
 <h2>お問い合わせ</h2>
